@@ -1,11 +1,17 @@
 # Student Grade Calculator (Java)
 
-A simple Java console application to calculate total marks, average, and grade.
+This is a simple Java console-based application that calculates total marks, average, and assigns a grade based on performance.
 
 ## Features
-- Accepts marks for multiple subjects
-- Calculates total and average
-- Displays grade
+- Takes input for multiple subjects
+- Calculates total and average marks
+- Displays grade based on average
 
-## Tech Used
+## Tech Stack
 - Java
+
+## How to Run
+1. Compile the program:
+   javac GradeCalculator.java
+2. Run the program:
+   java GradeCalculator
